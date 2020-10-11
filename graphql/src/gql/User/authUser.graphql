@@ -1,0 +1,12 @@
+{
+  authUser(
+    email: "cursus@gmail.com"
+    password: "password"
+  ) {
+    id
+    email
+    confirmed
+    token
+    tokenExpiration
+  }
+}

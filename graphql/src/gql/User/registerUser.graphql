@@ -1,0 +1,9 @@
+mutation {
+  register(
+    email: "cursus@gmail.com"
+    password: "password"
+  ) {
+    id
+    email
+  }
+}

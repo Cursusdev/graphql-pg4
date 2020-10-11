@@ -1,0 +1,9 @@
+mutation {
+  login(
+    email: "cursus@gmail.com"
+    password: "password"
+  ) {
+    id
+    email
+  }
+}

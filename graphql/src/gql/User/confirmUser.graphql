@@ -1,0 +1,4 @@
+mutation {
+  confirmUser(
+    token: "1d64fda9-2283-4999-b720-7b7ebac2042a"
+  )

@@ -1,0 +1,6 @@
+{
+  registers {
+    id
+    email
+  }
+}
